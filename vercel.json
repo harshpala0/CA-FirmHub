@@ -14,7 +14,7 @@
   ],
   "env": {
     "FLASK_ENV": "production",
-    "SECRET_KEY": "@changeme@production@2024",
+    "SECRET_KEY": "ca-firmhub-production-secret-key-2024-audit-mgmt",
     "HOST": "0.0.0.0",
     "PORT": "3000"
   }
